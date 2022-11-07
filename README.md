@@ -1,0 +1,5 @@
+- 👋 Hi, I’m PAX
+- 👀 I’m interested in software engineering, malware analysis, analysis of executable files
+- 🌱 I’m currently investigating on static analysis of Portable Executables
+- 💞️ I’m open for new collaborators on my TRANScurity project
+- 📫 You can reach my by several ways
